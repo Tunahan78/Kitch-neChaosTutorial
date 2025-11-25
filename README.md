@@ -1,7 +1,7 @@
 # Kitchen Chaos - Unity Oyun Geliştirme Projesi
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/5aed4b9f-9d44-4586-8e79-35ad5c1f15ce
+  <video src="https://github.com/user-attachments/assets/5aed4b9f-9d44-4586-8e79-35ad5c1f15ce.mp4
  width="100%" />
   
 
